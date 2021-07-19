@@ -9,3 +9,17 @@
   color: white;
   text-align: center;
 }
+
+.header p {
+  color: aquamarine;
+  font-size: 23px;
+  text-align: center;
+  padding: 25px;
+  padding-bottom: 12px;
+}
+
+.phone img {
+  margin: auto;
+  width: 20%;
+  padding-left: 40%;
+}
