@@ -18,7 +18,7 @@
   padding-bottom: 12px;
 }
 
-.phone img {
+.phone video {
   margin: auto;
   width: 20%;
   padding-left: 40%;
@@ -51,6 +51,14 @@
 }
 
 .phoneicon {
+  text-align: center;
+}
+
+.phoneicon h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 42px;
+  color: white;
   text-align: center;
 }
 
