@@ -23,3 +23,53 @@
   width: 20%;
   padding-left: 40%;
 }
+
+.bottom {
+  color: white;
+  text-align: center;
+}
+
+.bottom h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  padding: 10px;
+}
+
+.bottom p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.bottom img {
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  margin: 25px;
+}
+
+.phoneicon {
+  text-align: center;
+}
+
+.phoneicon img {
+  margin: auto;
+  width: 5%;
+  height: 5%;
+  padding: 5px;
+}
+
+.phoneicon p {
+  color: aquamarine;
+  font-size: 23px;
+  text-align: center;
+  padding-bottom: 12px;
+}
+
+.cright {
+  text-align: right;
+  color: gray;
+  font-size: 25px;
+}
